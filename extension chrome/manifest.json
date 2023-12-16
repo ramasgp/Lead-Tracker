@@ -1,0 +1,15 @@
+{
+    "name": "lead-website-tracker",
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "description": "menyimpan url website via extension by-rama",
+    "author": "rama sakti",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "images/bookmark.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+  }
+  
